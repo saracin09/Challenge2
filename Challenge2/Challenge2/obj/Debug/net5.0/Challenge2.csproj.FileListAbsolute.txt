@@ -1,0 +1,16 @@
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\Challenge2.exe
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\Challenge2.deps.json
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.json
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\Challenge2.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\Challenge2.dll
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\ref\Challenge2.dll
+C:\Users\rober\source\repos\Challenge2\Challenge2\bin\Debug\net5.0\Challenge2.pdb
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfo.cs
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.dll
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\ref\Challenge2.dll
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.pdb
+C:\Users\rober\source\repos\Challenge2\Challenge2\obj\Debug\net5.0\Challenge2.genruntimeconfig.cache
